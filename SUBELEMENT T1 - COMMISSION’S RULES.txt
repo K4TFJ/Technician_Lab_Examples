@@ -1,0 +1,19 @@
+SUBELEMENT T1 - COMMISSION’S RULES
+[6 Exam Questions - 6 Groups] 68 Questions
+
+T1A Purpose and permissible use of the Amateur Radio Service; Operator/primary station license grant; Meanings of basic terms used in FCC rules; Interference; RACES rules; Phonetics; Frequency Coordinator; Beacon .
+
+
+T1B Frequency allocations; Emission modes; Spectrum sharing; Transmissions near band edges; Contacting the International Space Station; Power output .
+
+
+T1C Licensing: classes, sequential and vanity call sign systems, places where the Amateur Radio Service is regulated by the FCC, name and address on FCC license database, term, renewal, grace period, maintaining mailing address; International communications .
+
+
+T1D Authorized and prohibited transmissions; Sale of equipment.
+
+
+T1E Control operator: eligibility, designating, privileges, duties, location, required; Control point; Control types: automatic, remote.
+
+
+T1F Station identification; Repeaters; Third-party communications; Club stations; FCC inspection.
