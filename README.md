@@ -3,7 +3,7 @@ Demonstrate real world examples for each sub-element of the Technician Class Lic
 
 To earn your US amateur radio Technician license, you must pass Element 2, a 35-question written exam. 
 The exam is broken down into 10 sub-elements (T1–T0), each containing specific groups of topics that cover regulations, operating practices, and basic radio theory.
-
+Based on 2026-2030 question pool.
 The sub-elements and their specific topical groups are:
 
 ## Sub-Element T1: FCC Rules, Descriptions, and Standards
