@@ -2,61 +2,70 @@
 Demonstrate real world examples for each sub-element of the Technician Class License Exam
 
 To earn your US amateur radio Technician license, you must pass Element 2, a 35-question written exam. 
-The exam is broken down into 10 sub-elements (T1–T0), each containing specific groups of topics that cover regulations, operating practices, and basic radio theory.
-Based on 2026-2030 question pool. Effective for exams administered on or after July 1, 2026. This pool includes 409 questions and features more updated technical accuracy for current practices. It breaks down into the following 10 sub-elements:
+The exam is broken down into 10 sub-elements (T1–T0), each containing specific groups of topics that cover regulations, operating practices, and basic radio theory. Based on 2026-2030 question pool. Effective for exams administered on or after July 1, 2026. This pool includes 409 questions and features more updated technical accuracy for current practices. It breaks down into the following 10 sub-elements:
 
-## Sub-Element T1: FCC Rules, Descriptions, and Standards
-- T1A: Basis and purpose of the Amateur Radio Service, station location, and emergency rules.
-- T1B: Definitions and operator/primary station license grants.
-- T1C: Rules for station control and operation.
-- T1D: Station identification, repeaters, and third-party communications.
-- T1E: Authorized frequencies, privileges, and emission modes.
-- T1F: Emergency communications, amateur auxiliary, and restrictions.
 
-## Sub-Element T2: Operating Procedures
-- T2A: Station operation, procedural signs, minimum power, and band plans.
-- T2B: VHF/UHF operating practices, repeater usage, and operating on FM/SSB.T2C: Public service, emergency operations, and RACES/ARES.
+## SUBELEMENT T1 - COMMISSION’S RULES 
+### [6 Exam Questions - 6 Groups] 68 Questions 
+- T1A Purpose and permissible use of the Amateur Radio Service; Operator/primary station license grant; Meanings of basic terms used in FCC rules; Interference; RACES rules; Phonetics; Frequency Coordinator; Beacon .
+- T1B Frequency allocations; Emission modes; Spectrum sharing; Transmissions near band edges; Contacting the International Space Station; Power output .
+- T1C Licensing: classes, sequential and vanity call sign systems, places where the Amateur Radio Service is regulated by the FCC, name and address on FCC license database, term, renewal, grace period, maintaining mailing address; International communications .
+- T1D Authorized and prohibited transmissions; Sale of equipment.
+- T1E Control operator: eligibility, designating, privileges, duties, location, required; Control point; Control types: automatic, remote.
+- T1F Station identification; Repeaters; Third-party communications; Club stations; FCC inspection.
 
-## Sub-Element T3: Radio Wave Characteristics
-- T3A: Radio wave properties, how signals travel, fading, and multipath.
-- T3B: Electromagnetic spectrum, wavelength versus frequency, and wave velocity.
-- T3C: Antenna orientation, polarization, and line-of-sight propagation.
+## SUBELEMENT T2 - OPERATING PROCEDURES 
+### [3 Exam Questions - 3 Groups] 37 Questions 
+- T2A Station operation: choosing an operating frequency, calling another station, test transmissions; Band plans: calling frequencies, repeater offsets
+- T2B VHF/UHF operating practices: FM repeater, simplex, reverse splits; Access tones: CTCSS, DTMF; DMR operation; Resolving operating problems; Q signals 
+- T2C Public service: emergency operations, applicability of FCC rules, RACES and ARES, net and traffic procedures, operating restrictions during emergencies, use of phonetics in message handling 
 
-## Sub-Element T4: Amateur Radio Practices
-- T4A: Station setup, transceivers, and block diagrams.
-- T4B: Operating controls, receiver filters, and tuning.
-- T4C: Basic station equipment and connection procedures.
+## SUBELEMENT T3 - RADIO WAVE PROPAGATION 
+### [3 Exam Questions - 3 Groups] 35 Questions 
+- T3A Radio wave characteristics: how a radio signal travels, fading, multipath, polarization, wavelength vs absorption; Antenna orientation 
+- T3B Electromagnetic wave properties: wavelength vs frequency, nature and velocity of electromagnetic waves, relationship of wavelength and frequency; Electromagnetic Spectrum Definitions: UHF, VHF, HF 
+- T3C Propagation modes: sporadic E, meteor scatter, auroral propagation, tropospheric ducting; F region skip; Line of sight and radio horizon
 
-## Sub-Element T5: Electrical Principles
-- T5A: Current, voltage, conductors, and insulators.
-- T5B: Units of electrical measurement, power, and decibels.
-- T5C: Math for electronics, prefixes, and basic formulas.
-- T5D: Electronic components, resistors, capacitors, and inductors.
+## SUBELEMENT T4 - AMATEUR RADIO PRACTICES 
+### [2 Exam Questions - 2 Groups] 23 Questions 
+- T4A Station setup: connecting a microphone, RF power meter, a power source, a computer, digital equipment, an SWR meter; RF grounding; Mobile radio installation 
+- T4B Operating controls: frequency tuning, use of filters, squelch function, AGC, memory channels, noise blanker, microphone gain, receiver incremental tuning (RIT), bandwidth selection, scanning function; Digital transceiver configuration; DMR code plugs and talk groups
 
-## Sub-Element T6: Electrical Components
-- T6A: Semiconductors, diodes, and transistors.
-- T6B: Digital ICs, logic gates, and microprocessors.
-- T6C: Circuit symbols and schematic reading.
-- T6D: Antennas and feed lines.
-- T6E: Basic station hardware and connectors.
+## SUBELEMENT T5 - ELECTRICAL PRINCIPLES 
+### [4 Exam Questions - 4 Groups] 50 Questions 
+- T5A Current and voltage: terminology and units, conductors and insulators, alternating and direct current
+- T5B Math for electronics: conversion of electrical units, decibels 
+- T5C Capacitance and inductance terminology and units; Radio frequency definition and units; Impedance definition and units; Calculating power
+-  T5D Ohm’s Law; Series and parallel circuits
 
-## Sub-Element T7: Station Equipment
-- T7A: Receivers, transmitters, and transceivers.
-- T7B: Digital modes, computers, and radio interfacing.
-- T7C: Power supplies and batteries.
-- T7D: Troubleshooting and basic tests.
+## SUBELEMENT T6 - ELECTRONIC AND ELECTRICAL COMPONENTS 
+### [4 Exam Questions - 4 Groups] 46 Questions 
+- T6A Fixed and variable resistors; Capacitors; Inductors; Fuses; Switches; Batteries 
+- T6B Semiconductors: basic principles and applications of solid-state devices, diodes and transistors; Gain 
+- T6C Circuit diagrams: use of term schematic, basic structure; Schematic symbols of basic components 
+- T6D Component functions: rectifiers, relays, voltage regulators, meters, indicators, integrated circuits, transformers; Resonant circuit; Shielding
 
-## Sub-Element T8: Modulation Modes
-- T8A: Modulation types, AM, FM, and SSB.
-- T8B: Digital modes (FT8, APRS, D-STAR) and signal bandwidth.
-- T8C: Operating quirks, duty cycles, and transmitter issues.
+## SUBELEMENT T7 - PRACTICAL CIRCUITS 
+### [4 Exam Questions - 4 Groups] 44 Questions 
+- T7A Station equipment: receivers, transceivers, transmitter amplifiers, RF preamplifiers, transverters; Basic radio circuit concepts and terminology: sensitivity, selectivity, mixers, oscillators, Push-To-Talk (PTT), VFO, modulation 
+- T7B Symptoms, causes, and cures of common transmitter and receiver problems: overload and overdrive, distortion, interference and consumer electronics, RF feedback 
+- T7C Antenna and transmission line measurements and troubleshooting: measuring SWR, effects of high SWR, causes of feed line failures; Basic coaxial cable characteristics; Use of dummy loads when testing 
+- T7D Using basic test instruments: voltmeter, ammeter, and ohmmeter; Soldering
 
-## Sub-Element T9: Antennas and Feedlines
-- T9A: Antenna types and design.
-- T9B: Feed lines, coaxial cables, and SWR (Standing Wave Ratio).
+## SUBELEMENT T8 - SIGNALS AND EMISSIONS 
+### [4 Exam Questions - 4 Groups] 47 Questions 
+- T8A Basic characteristics of FM and SSB; Bandwidth of various modulation modes: CW, SSB, FM, fast-scan TV; Choice of emission type: selection of USB vs LSB, use of SSB for weak signal work, use of FM for VHF packet and repeaters 
+- T8B Amateur satellite operation: Doppler shift, basic orbits, operating protocols, modulation mode selection, transmitter power considerations, telemetry, satellite tracking programs, beacons, uplink and downlink mode definitions, spin fading, definition of “LEO”, setting uplink power 
+- T8C Operating activities: radio direction finding, contests, linking over the internet, exchanging grid locators 
+- T8D Non-voice and digital communications: image signals and definition of NTSC, CW, packet radio, PSK, APRS, error detection and correction, amateur radio networking, DMR, WSJT modes, Broadband-Hamnet
 
-## Sub-Element T0: Electrical Safety
-- T0A: AC and DC safety, grounding, and fuses.
-- T0B: Antenna safety, tower safety, and installation.
-- T0C: RF radiation hazards and general safety practices.
+## SUBELEMENT T9 - ANTENNAS AND FEED LINES 
+### [2 Exam Questions - 2 Groups] 23 Questions 
+- T9A Antennas: vertical and horizontal polarization, concept of antenna gain, definition and types of beam antennas, antenna loading, common portable and mobile antennas, relationships between resonant length and frequency, dipole pattern 
+- T9B Feed lines: types, attenuation vs frequency, selecting; SWR concepts; Antenna tuners (couplers); RF Connectors: selecting, weather protection
 
+## SUBELEMENT T0 - SAFETY 
+### [3 Exam Questions - 3 Groups] 36 Questions 
+- T0A Power circuits and hazards: hazardous voltages, fuses and circuit breakers, grounding, electrical code compliance; Lightning protection; Battery safety 
+- T0B Antenna safety: tower safety and grounding, installing antennas, antenna supports 
+- T0C RF hazards: radiation exposure, proximity to antennas, recognized safe power levels, radiation types, duty cycle
