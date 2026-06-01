@@ -1,0 +1,10 @@
+SUBELEMENT T2 - OPERATING PROCEDURES
+[3 Exam Questions - 3 Groups] 37 Questions
+
+T2A Station operation: choosing an operating frequency, calling another station, test transmissions; Band plans: calling frequencies, repeater offsets
+
+
+T2B VHF/UHF operating practices: FM repeater, simplex, reverse splits; Access tones: CTCSS, DTMF; DMR operation; Resolving operating problems; Q signals
+
+
+T2C Public service: emergency operations, applicability of FCC rules, RACES and ARES, net and traffic procedures, operating restrictions during emergencies, use of phonetics in message handling
