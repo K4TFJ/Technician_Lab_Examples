@@ -2,12 +2,43 @@ SUBELEMENT T5 - ELECTRICAL PRINCIPLES
 [4 Exam Questions - 4 Groups] 50 Questions
 
 T5A Current and voltage: terminology and units, conductors and insulators, alternating and direct current
-
-
 T5B Math for electronics: conversion of electrical units, decibels
-
-
 T5C Capacitance and inductance terminology and units; Radio frequency definition and units; Impedance definition and units; Calculating power
-
-
 T5D Ohm’s Law; Series and parallel circuits
+
+
+Lab Equipment and parts
+=============================================================================
+multi-meter
+breadboard with power board and hook-up wire
+9v battery
+resistor pack
+
+=============================================================================
+
+Demonstrate Ohm’s Law and Power Law
+Formulas and images
+
+
+
+
+Demonstrate the basic use of a multi-meter
+Measure the voltage of the 9v battery (repeat with other batteries?)
+
+Resistor color code.
+
+Read (decode) the resistance of a resistor
+Measure the resistance of the resistor and compare, checking tolerance (repeat)
+
+Create a series circuit on the breadboard
+Calculate the current of the circuit
+Measure the current
+Add another resistor in series
+Calculate and then measure the total resistance and current
+Calculate and then measure the voltage drop across each resistor.
+Show that the current is the same through each resistor
+
+Create a parallel circuit on the breadboard.
+Read and Measure the resistors
+Show that the voltage is the same across each resistor
+Calculate and then measure the current through each resistor
